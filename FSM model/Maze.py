@@ -12,6 +12,8 @@ current_position = A.position
 print("Current position of agent A:", current_position)
 
 M.run()  # Run the maze simulation
+
+# Check Position
 if A.position == (1, 1):
     print("Winner!")
 else:
