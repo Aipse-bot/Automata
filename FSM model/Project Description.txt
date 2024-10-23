@@ -1,0 +1,1 @@
+This project creates a maze environment, places an agent (bottom-right corner) with footprints enabled, runs the maze simulation, and checks if the agent reaches the designated goal position (top-left corner).
